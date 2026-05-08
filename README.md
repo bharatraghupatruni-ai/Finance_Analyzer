@@ -1,8 +1,7 @@
 # AI Personal Finance Behavior Analyzer
 
-Full-stack finance analysis app for uploading transaction files, parsing and categorizing transactions, detecting behavioral patterns, and generating dashboard insights.
-## Live Demo
-https://client-six-rho-98.vercel.app/
+Full-stack finance analysis app for uploading transaction files, parsing and categorizing transactions, detecting behavioral patterns, and generating dashboard insights.## Sample Dataset
+[Download Dataset](https://drive.google.com/file/d/1rzVFTkBZ-VS6ay0WC_E7NU-2W1f-7b79/view?usp=sharing)
 ## Sample dataset
 https://drive.google.com/file/d/1rzVFTkBZ-VS6ay0WC_E7NU-2W1f-7b79/view?usp=sharing
 ## Architecture
